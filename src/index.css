@@ -16,13 +16,19 @@ body{
 
 .main--bg{
     
-    background-image: url(./images/wallperShoe.jpg);
+    background-image: url(./images/v4.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .vid--bg{
-    background-image: url(./images/Pexels\ Videos\ 2008513.gif);
+    background-image: url(./images/wallperShoe.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.login--bg{
+    background-image:url(./images/kjl.jpg);
     background-size: cover;
     background-position: center;
 }
