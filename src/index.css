@@ -1,0 +1,28 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: white;
+}
+
+.main--bg{
+    
+    background-image: url(./images/wallperShoe.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.vid--bg{
+    background-image: url(./images/Pexels\ Videos\ 2008513.gif);
+    background-size: cover;
+    background-position: center;
+}
